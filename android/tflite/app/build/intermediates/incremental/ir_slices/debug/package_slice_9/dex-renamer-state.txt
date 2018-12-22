@@ -1,0 +1,4 @@
+#Sat Dec 22 08:11:27 WIB 2018
+base.0=/Users/mymacbook/machine-learning/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

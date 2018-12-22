@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleTensorflowLite</string>
+    <string name="camera_error">Camera Error</string>
+</resources>
